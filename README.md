@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-
 <h1 align="center"> NLW #10 Copa </h1>
 
 <p align="center">
